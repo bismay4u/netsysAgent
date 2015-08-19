@@ -1,6 +1,6 @@
-# netsysAgent
+# Net Sys Agent (NSA)
 
-NetSysAgent (NSA) is a poor man's Network System Administration Kit. It works in:
+NSA is a poor man's Network System Administration Kit. It works in:
 + Controling users and groups on all the network computers.
 + Collection system state, information and services to a central portal.
 + Assigning and enforcing security policies for all computers.
